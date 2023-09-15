@@ -10,4 +10,5 @@ This project is a walkthrough of using Cloudformation in building a 3-tier archi
 
 The final architecture diagram of this project is as follows: 
 
-![image](https://github.com/ericksonaspa/Deploy-a-3-Tier-Architecture-Web-Application-using-Cloudformation/assets/77118362/3739f16a-e9fa-48e0-a0ea-324c44d88f16)
+![image](https://github.com/ericksonaspa/Deploy-a-3-Tier-Architecture-Web-Application-using-Cloudformation/assets/77118362/251bdfb4-5c88-4a4c-a7db-556548fa625a)
+
